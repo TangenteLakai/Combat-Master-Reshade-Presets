@@ -47,7 +47,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Combat Master\reshade-shaders\Text
 ### Cinematic Preset
 
 ![Cinematic1](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/cinematic1.png)
-![Cinematic2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Cinematic3](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Cinematic2](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/cinematic2.png)
+![Cinematic3](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/cinematic3.png)
 
 ---
