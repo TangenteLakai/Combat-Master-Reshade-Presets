@@ -34,15 +34,15 @@ C:\Program Files (x86)\Steam\steamapps\common\Combat Master\reshade-shaders\Text
 
 ### Colorfull Preset
 
-![Colorfull1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Colorfull2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Colorfull3](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Colorfull1](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/colorfull1.png)
+![Colorfull2](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/colorfull2.png)
+![Colorfull3](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/colorfull3.png)
 
 ### Clean Preset
 
-![Clean1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Clean2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Clean3](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Clean1](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/clean1.png)
+![Clean2](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/clean2.png)
+![Clean3](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/clean3.png)
 
 ### Cinematic Preset
 
